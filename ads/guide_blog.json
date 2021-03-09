@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-    "select_ads": "ADMOB",
+    "select_ads": "FACEBOOK",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-7436225079503837/5328561102",
@@ -9,8 +9,8 @@
     "admob_openid": "ca-app-pub-7436225079503837/2589527753",
     "interval_intertitial": 5,
     "startappid": "201669628",
-    "fan_inter": "900344584069543_905010386936296",
-    "fan_banner_native": "900344584069543_905009766936358",
+    "fan_inter": "900344584069543_900346980735970",
+    "fan_banner_native": "900344584069543_905010660269602",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
     "appodeal": "3896203",
