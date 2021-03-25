@@ -1,0 +1,129 @@
+{
+"Ads": [
+{
+"select_ads": "ADMOB",
+"status_app": "0",
+"link_redirect": "https://",
+"admob_interid": "ca-app-pub-3940256099942544/1033173712",
+"admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+"admob_openid": "ca-app-pub-3940256099942544/1033173712",
+"interval_intertitial": "5",
+"startappid": "201669628",
+"fan_inter": "YOUR_PLACEMENT_ID",
+"fan_banner": "YOUR_PLACEMENT_ID",
+"mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+"mopub_inter": "24534e1901884e398f1253216226017e",
+"appodeal_key": "b195f8dd8ded45fe847ad89ed1d016da",
+"packagename": "kim.aliendroid"
+}
+],
+"Categories": [
+{
+"id": 1,
+"name_category": "Khalid Basalamah",
+"image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1469444/1469444-1551253073015-0996a7d2bd44b.jpg"
+},
+{
+"id": 2,
+"name_category": "Hanan Attaki",
+"image": "https://www.dailysia.com/wp-content/uploads/2020/05/Ustadz-Hanan-Attaki_Cover.jpg"
+},
+{
+"id": 3,
+"name_category": "Mr. Kim",
+"image": "http://aliendro.id/mp3json/mp3/kim.jpg"
+}
+],
+"Data": [
+{
+"id": 1,
+"name_category": "Hanan Attaki",
+"title": "Bahagia Itu Sederhana",
+"image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
+"link_mp3": "http://aliendro.id/mp3json/mp3/bahagia.mp3",
+"duration": "175",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>1. الرحمن = Ar Rahman</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pengasih<br />\r\n<br />\r\n<strong>2. الرحيم = Ar Rahiim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penyayang<br />\r\n<br />\r\n<strong>3. الملك = Al Malik</strong><br />\r\n<br />\r\nArtinya: Yang Maha Merajai (bisa diartikan Raja dari semua Raja)<br />\r\n<br />\r\n<strong>4. القدوس = Al Quddus</strong><br />\r\n<br />\r\nArtinya: Yang Maha Suci<br />\r\n<br />\r\n<strong>5. السلام = As Salaam</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memberi Kesejahteraan<br />\r\n<br />\r\n<strong>6. المؤمن = Al Mu&#39;min</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memberi Keamanan<br />\r\n<br />\r\n<strong>7. المهيمن = Al Muhaimin</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengatur<br />\r\n<br />\r\n<strong>8. العزيز = Al &#39;Aziiz</strong><br />\r\n<br />\r\nArtinya: Yang Maha Perkasa<br />\r\n<br />\r\n<strong>9. الجبار = Al Jabbar</strong><br />\r\n<br />\r\nArtinya: Yang Memiliki (Mutlak) Kegagahan<br />\r\n<br />\r\n<strong>10. المتكبر = Al Mutakabbir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Megah, yang memiliki kebesaran</span></p>\r\n"
+},
+{
+"id": 2,
+"name_category": "Hanan Attaki",
+"title": "Sambung Silaturahim",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrKmaN8afggEfkCuTHrbQ5-v1l4zjUmkVz3A&usqp=CAU",
+"link_mp3": "http://aliendro.id/mp3json/mp3/balikan_lagi.mp3",
+"duration": "58",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>11. الخالق = Al Khaliq</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pencipta<br />\r\n<br />\r\n<strong>12. البارئ = Al Baari&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Melepaskan (membuat, membentuk, menyeimbangkan)<br />\r\n<br />\r\n<strong>13. المصور = Al Mushawwir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Membentuk Rupa (makhluk-Nya)<br />\r\n<br />\r\n<strong>14. الغفار = Al Ghaffaar</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pengampun<br />\r\n<br />\r\n<strong>15. القهار = Al Qahhaar</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menundukkan/Menaklukkan Segala Sesuatu<br />\r\n<br />\r\n<strong>16. الوهاب = Al Wahhaab</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Karunia<br />\r\n<br />\r\n<strong>17. الرزاق = Ar Razzaaq</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Rezeki<br />\r\n<br />\r\n<strong>18. الفتاح = Al Fattaah</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pembuka Rahmat<br />\r\n<br />\r\n<strong>19. العليم = Al &#39;Aliim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengetahui<br />\r\n<br />\r\n<strong>20. القابض = Al Qaabidh</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menyempitkan</span></p>\r\n"
+},
+{
+"id": 3,
+"name_category": "Khalid Basalamah",
+"title": "Siapa yang bangkrut?",
+"image": "https://awsimages.detik.net.id/community/media/visual/2020/08/09/khalid-basalamah_43.png?w=700&q=90",
+"link_mp3": "http://aliendro.id/mp3json/mp3/bangkrut.mp3",
+"duration": "56",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>21. الباسط = Al Baasith</strong><br />\r\n<br />\r\nArtinya: Yang Maha Melapangkan<br />\r\n<br />\r\n<strong>22. الخافض = Al Khaafidh</strong><br />\r\n<br />\r\nArtinya: Yang Maha Merendahkan<br />\r\n<br />\r\n<strong>23. الرافع = Ar Raafi&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Meninggikan<br />\r\n<br />\r\n<strong>24. المعز = Al Mu&#39;izz</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memuliakan<br />\r\n<br />\r\n<strong>25. المذل = Al Mudzil</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menghinakan<br />\r\n<br />\r\n<strong>26. السميع = Al Samii&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mendengar<br />\r\n<br />\r\n<strong>27. البصير = Al Bashiir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Melihat<br />\r\n<br />\r\n<strong>28. الحكم = Al Hakam</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menetapkan<br />\r\n<br />\r\n<strong>29. العدل = Al &#39;Adl</strong><br />\r\n<br />\r\nArtinya: Yang Maha Adil<br />\r\n<br />\r\n<strong>30. اللطيف = Al Lathiif</strong><br />\r\n<br />\r\nArtinya: Yang Maha Lembut</span></p>\r\n"
+},
+{
+"id": 4,
+"name_category": "Hanan Attaki",
+"title": "Jangan berikan hati kepada yang belum Halal",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsw0Jd3M7F56acAgA5XnVZfPPblbBpXecpQ&usqp=CAU",
+"link_mp3": "http://aliendro.id/mp3json/mp3/cinta_diam.mp3",
+"duration": "77",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>31. الخبير = Al Khabiir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengenal<br />\r\n<br />\r\n<strong>32. الحليم = Al Haliim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penyantun<br />\r\n<br />\r\n<strong>33. العظيم = Al &#39;Azhiim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Agung<br />\r\n<br />\r\n<strong>34. الغفور = Al Ghafuur</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memberi Pengampunan<br />\r\n<br />\r\n<strong>35. الشكور = As Syakuur</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pembalas Budi (menghargai)<br />\r\n<br />\r\n<strong>36. العلى = Al &#39;Aliy</strong><br />\r\n<br />\r\nArtinya: Yang Maha Tinggi<br />\r\n<br />\r\n<strong>37. الكبير = Al Kabiir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Besar<br />\r\n<br />\r\n<strong>38. الحفيظ = Al Hafizh</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memelihara<br />\r\n<br />\r\n<strong>39. المقيت = Al Muqiit</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Kecukupan<br />\r\n<br />\r\n<strong>40. الحسيب = Al Hasiib</strong><br />\r\n<br />\r\nArtinya: Yang Maha Membuat Perhitungan</span></p>\r\n"
+},
+{
+"id": 5,
+"name_category": "Khalid Basalamah",
+"title": "Dosa membawa keburukan",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMAfTUHQxsIMm4tH5CTBKy20BThpUg4KI1A&usqp=CAU",
+"link_mp3": "http://aliendro.id/mp3json/mp3/dosa_membawa_keburukan.mp3",
+"duration": "53",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>41. الجليل = Al Jaliil</strong><br />\r\n<br />\r\nArtinya: Yang Maha Luhur<br />\r\n<br />\r\n<strong>42. الكريم = Al Kariim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemurah<br />\r\n<br />\r\n<strong>43. الرقيب = Ar Raqiib</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengawasi<br />\r\n<br />\r\n<strong>44. المجيب = Al Mujiib</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengabulkan<br />\r\n<br />\r\n<strong>45. الواسع = Al Waasi&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Luas<br />\r\n<br />\r\n<strong>46. الحكيم = Al Hakim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Bijaksana<br />\r\n<br />\r\n<strong>47. الودود = Al Waduud</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengasihi<br />\r\n<br />\r\n<strong>48. المجيد = Al Majiid</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mulia<br />\r\n<br />\r\n<strong>49. الباعث = Al Baa&#39;its</strong><br />\r\n<br />\r\nArtinya: Yang Maha Membangkitkan<br />\r\n<br />\r\n<strong>50. الشهيد = As Syahiid</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menyaksikan</span></p>\r\n"
+},
+{
+"id": 6,
+"name_category": "Hanan Attaki",
+"title": "Dalam kesusahan ada kemudahan",
+"image": "https://islami.co/wp-content/uploads/2018/07/hanan.png",
+"link_mp3": "http://aliendro.id/mp3json/mp3/kemudahan.mp3",
+"duration": "60",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>51. الحق = Al Haqq</strong><br />\r\n<br />\r\nArtinya: Yang Maha Benar<br />\r\n<br />\r\n<strong>52. الوكيل = Al Wakiil</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memelihara<br />\r\n<br />\r\n<strong>53. القوى = Al Qawiyyu</strong><br />\r\n<br />\r\nArtinya: Yang Maha Kuat<br />\r\n<br />\r\n<strong>54. المتين = Al Matiin</strong><br />\r\n<br />\r\nArtinya: Yang Maha Kokoh<br />\r\n<br />\r\n<strong>55. الولى = Al Waliyy</strong><br />\r\n<br />\r\nArtinya: Yang Maha Melindungi<br />\r\n<br />\r\n<strong>56. الحميد = Al Hamiid</strong><br />\r\n<br />\r\nArtinya: Yang Maha Terpuji<br />\r\n<br />\r\n<strong>57. المحصى = Al Muhshii</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengalkulasi (menghitung segala sesuatu)<br />\r\n<br />\r\n<strong>58. المبدئ = Al Mubdi&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memulai<br />\r\n<br />\r\n<strong>59. المعيد = Al Mu&#39;iid</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengembalikan Kehidupan<br />\r\n<br />\r\n<strong>60. المحيى = Al Muhyii</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menghidupkan</span></p>\r\n"
+},
+{
+"id": 7,
+"name_category": "Khalid Basalamah",
+"title": "Nasihat untuk yang malas ibadah",
+"image": "https://www.riauin.com/foto_berita/43436184618-images_(57).jpeg",
+"link_mp3": "http://aliendro.id/mp3json/mp3/malas_ibadah.mp3",
+"duration": "200",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>61. المميت = Al Mumiitu</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mematikan<br />\r\n<br />\r\n<strong>62. الحي = Al Hayyu</strong><br />\r\n<br />\r\nArtinya: Yang Maha Hidup<br />\r\n<br />\r\n<strong>63. القيوم = Al Qayyuum</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mandiri<br />\r\n<br />\r\n<strong>64. الواجد = Al Waajid</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penemu<br />\r\n<br />\r\n<strong>65. الماجد = Al Maajid</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mulia<br />\r\n<br />\r\n<strong>66. الواحد = Al Wahid</strong><br />\r\n<br />\r\nArtinya: Yang Maha Tunggal<br />\r\n<br />\r\n<strong>67. الاحد = Al Ahad</strong><br />\r\n<br />\r\nArtinya: Yang Maha Esa<br />\r\n<br />\r\n<strong>68. الصمد = As Shamad</strong><br />\r\n<br />\r\nArtinya: Yang Maha Dibutuhkan (tempat meminta)<br />\r\n<br />\r\n<strong>69. القادر = Al Qaadir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menentukan, Maha Menyeimbangkan<br />\r\n<br />\r\n<strong>70. المقتدر = Al Muqtadir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Berkuasa</span></p>\r\n"
+},
+{
+"id": 8,
+"name_category": "Khalid Basalamah",
+"title": "Jangn pernah takut",
+"image": "https://www.biografiku.com/wp-content/uploads/2018/01/Biografiustkhalidbasalamah.jpg",
+"link_mp3": "http://aliendro.id/mp3json/mp3/pengingat.mp3",
+"duration": "88",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>71. المقدم = Al Muqaddim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mendahulukan<br />\r\n<br />\r\n<strong>72. المؤخر = Al Mu&#39;akkhir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengakhirkan<br />\r\n<br />\r\n<strong>73. الأول = Al Awwal</strong><br />\r\n<br />\r\nArtinya: Yang Maha Awal<br />\r\n<br />\r\n<strong>74. الأخر = Al Aakhir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Akhir<br />\r\n<br />\r\n<strong>75. الظاهر = Az Zhaahir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Nyata<br />\r\n<br />\r\n<strong>76. الباطن = Al Baathin</strong><br />\r\n<br />\r\nArtinya: Yang Maha Ghaib<br />\r\n<br />\r\n<strong>77. الوالي = Al Waali</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memerintah<br />\r\n<br />\r\n<strong>78. المتعالي = Al Muta&#39;aalii</strong><br />\r\n<br />\r\nArtinya: Yang Maha Tinggi<br />\r\n<br />\r\n<strong>79. البر = Al Barru</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penderma (maha pemberi kebajikan)<br />\r\n<br />\r\n<strong>80. التواب = At Tawwaab</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penerima Taubat</span></p>\r\n"
+},
+{
+"id": 9,
+"name_category": "Hanan Attaki",
+"title": "Taubat dari zina",
+"image": "https://kitakini.news/wp-content/uploads/2019/07/hanan-attaki-tegal-1.jpg",
+"link_mp3": "http://aliendro.id/mp3json/mp3/zina.mp3",
+"duration": "168",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>81. المنتقم = Al Muntaqim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Balasan<br />\r\n<br />\r\n<strong>82. العفو = Al Afuww</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemaaf<br />\r\n<br />\r\n<strong>83. الرؤوف = Ar Ra&#39;uuf</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pengasuh<br />\r\n<br />\r\n<strong>84. مالك الملك = Malikul Mulk</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penguasa Kerajaan (semesta)<br />\r\n<br />\r\n<strong>85. ذو الجلال و الإكرام = Dzul Jalaali WalIkraam</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemilik Kebesaran dan Kemuliaan<br />\r\n<br />\r\n<strong>86. المقسط = Al Muqsith</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Keadilan<br />\r\n<br />\r\n<strong>87. الجامع = Al Jamii&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengumpulkan<br />\r\n<br />\r\n<strong>88. الغنى = Al Ghaniyy</strong><br />\r\n<br />\r\nArtinya: Yang Maha Kaya<br />\r\n<br />\r\n<strong>89. المغنى = Al Mughnii</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Kekayaan<br />\r\n<br />\r\n<strong>90. المانع = Al Maani</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mencegah</span></p>\r\n"
+},
+{
+"id": 10,
+"name_category": "Mr. Kim",
+"title": "Cara pesan Alien Cloud",
+"image": "http://aliendro.id/mp3json/mp3/kim.jpg",
+"link_mp3": "http://aliendro.id/mp3json/mp3/cloud.mp3",
+"duration": "357",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>91. الضار = Ad Dhaar</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penimpa Kemudharatan<br />\r\n<br />\r\n<strong>92. النافع = An Nafii&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memberi Manfaat<br />\r\n<br />\r\n<strong>93. النور = An Nuur</strong><br />\r\n<br />\r\nArtinya: Yang Maha Bercahaya (menerangi, memberi cahaya)<br />\r\n<br />\r\n<strong>94. الهادئ = Al Haadii</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Petunjuk<br />\r\n<br />\r\n<strong>95. البديع = Al Badii&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pencipta Tiada Bandingannya<br />\r\n<br />\r\n<strong>96. الباقي = Al Baaqii</strong><br />\r\n<br />\r\nArtinya: Yang Maha Kekal<br />\r\n<br />\r\n<strong>97. الوارث = Al Waarits</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pewaris<br />\r\n<br />\r\n<strong>98. الرشيد = Ar Rasyiid</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pandai<br />\r\n<br />\r\n<strong>99. الصبور = As Shabuur</strong><br />\r\n<br />\r\nArtinya: Yang Maha Sabar</span></p>\r\n"
+}
+]
+}
