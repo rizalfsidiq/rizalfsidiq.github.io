@@ -1,0 +1,200 @@
+{
+  "Ads": [
+    {
+      "select_ads": "FACEBOOK",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-4962462081160465/5801156597",
+      "admob_bannerid": "ca-app-pub-4962462081160465/9740401604",
+      "admob_openid": "ca-app-pub-4962462081160465/1670339899",
+      "startappid": "201669628",
+      "fan_inter": "1474428702893525_1474429349560127",
+      "fan_banner": "1474428702893525_1474807626188966",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 3
+    
+    }
+  ],"Categories":
+  [
+    {
+      "category":"All Maps"
+    
+  }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name":"Map Victoria House",
+      "category":"All Maps",
+      "image":"http://rizal03.alienhosted.com/mansionmaps/1.png",
+      "download":"http://rizal03.alienhosted.com/mansionmaps/Victorian_House.zip",
+      "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+    },{
+    "id":2,
+    "name":"Map Island House",
+    "category":"All Maps",
+    "image":"http://rizal03.alienhosted.com/mansionmaps/2.jpeg",
+    "download":"http://rizal03.alienhosted.com/mansionmaps/Island_House.zip",
+    "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+  },{
+    "id":3,
+    "name":"Map Victorian Lake House",
+    "category":"All Maps",
+    "image":"http://rizal03.alienhosted.com/mansionmaps/3.png",
+    "download":"http://rizal03.alienhosted.com/mansionmaps/Victorian_Mansion.zip",
+    "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+  },
+  {
+    "id":4,
+    "name":"Map IVYWOOD MANOR",
+    "category":"All Maps",
+    "image":"http://rizal03.alienhosted.com/mansionmaps/4.png",
+    "download":"http://rizal03.alienhosted.com/mansionmaps/IvyWood_Manor.zip",
+    "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+  },
+  {
+    "id":5,
+    "name":"Map Redstone Hotel",
+    "category":"All Maps",
+    "image":"http://rizal03.alienhosted.com/mansionmaps/5.jpeg",
+    "download":"http://rizal03.alienhosted.com/mansionmaps/Redstonehotel.zip",
+    "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+  },
+  {
+    "id":6,
+    "name":"Map CRESTWORTH MANOR",
+    "category":"All Maps",
+    "image":"http://rizal03.alienhosted.com/mansionmaps/6.png",
+    "download":"http://rizal03.alienhosted.com/mansionmaps/Crestworth_Manor.zip",
+    "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+  },
+  {
+    "id":7,
+    "name":"Map MEDIEVAL MANSION",
+    "category":"All Maps",
+    "image":"http://rizal03.alienhosted.com/mansionmaps/7.png",
+    "download":"http://rizal03.alienhosted.com/mansionmaps/Medieval_Mansion.zip",
+    "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+  },
+  {
+    "id":8,
+    "name":"Map MALCOLM IN THE MIDDLE HOUSE",
+    "category":"All Maps",
+    "image":"http://rizal03.alienhosted.com/mansionmaps/8.png",
+    "download":"http://rizal03.alienhosted.com/mansionmaps/Middle_House.zip",
+    "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+  },
+  {
+    "id":9,
+    "name":"Map PEWDIEPIE HARDCORE HOUSE",
+    "category":"All Maps",
+    "image":"http://rizal03.alienhosted.com/mansionmaps/9.png",
+    "download":"http://rizal03.alienhosted.com/mansionmaps/Pewdiepie_Hardcore_House.zip",
+    "description":"<h3><strong>How to install:</strong></h3>
+<ul>
+<li>Download the maps Here.</li>
+<li>Open File Manager.</li>
+<li>Extract file.</li>
+<li>Go to %appdata%.</li>
+<li>Go to .minecraft/saves folder.</li>
+<li>If the &ldquo;saves&rdquo; folder does not exist you can create one.</li>
+<li>Drag map folder into it.</li>
+<li>Start minecraft.</li>
+<li>Enjoy and play.</li>
+</ul>"
+  }
+  ]
+}
